@@ -1,0 +1,24 @@
+Windows :
+
+Scaricare l'ultima versione disponibile da :
+
+https://sourceforge.net/projects/luabinaries/files/
+
+Nella cartella Tools Executables troveremo il file .zip per Windows 32/64 bit
+
+una volta scaricato bisognerà scompattarla in una cartella e impostare il percorso
+nella variabile d'ambiente Path.
+Una volta volta fatto ciò si consiaglia di rinominare i file togliendo la versione
+cosi da poter utilizzare direttamente il comando lua.
+Per eseguire senza compilare : lua Hello.lua
+per compilare :  luac -o Hello Hello.lua
+
+MacOS :
+
+https://rudix.org/
+
+Troveremo il file lua-5.4.3-macos11.5.pkg o versione successiva da scaricare e installare
+
+Linux :
+
+https://sourceforge.net/projects/luabinaries/files/
