@@ -19,6 +19,14 @@ https://rudix.org/
 
 Troveremo il file lua-5.4.3-macos11.5.pkg o versione successiva da scaricare e installare
 
+oppure per ultima versione :
+
+https://www.lua.org/download.html
+
+e seguire le istruzioni fino al comando cd lua-x.x.x
+
+sudo make macosx install
+
 Linux :
 
 https://sourceforge.net/projects/luabinaries/files/
