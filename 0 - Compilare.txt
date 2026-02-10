@@ -17,7 +17,7 @@ MacOS :
 
 https://www.lua.org/download.html
 
-scarica l'ultima versione e segui le istruzioni :
+scarica l'ultima versione, scompatta l'archivio e segui le istruzioni :
 
 cd lua-5.5.0
 
