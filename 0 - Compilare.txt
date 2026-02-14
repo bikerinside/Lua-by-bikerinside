@@ -8,10 +8,11 @@ Nella cartella Tools Executables troveremo il file .zip per Windows 32/64 bit
 
 una volta scaricato bisognerà scompattarla in una cartella e impostare il percorso
 nella variabile d'ambiente Path.
-Una volta volta fatto ciò si consiaglia di rinominare i file togliendo la versione
-cosi da poter utilizzare direttamente il comando lua.
+Una volta volta fatto ciò si consiglia di rinominare lua55.exe e luac55.exe
+in lua.exe e luac.exe, cosi da poter utilizzare direttamente il comando lua.
 Per eseguire senza compilare : lua Hello.lua
 per compilare :  luac -o Hello Hello.lua
+per eseguire dopo aver compilato : lua hello
 
 MacOS :
 
